@@ -4,7 +4,7 @@
 
 body {
 	font-family: 'Helvetica', sans-serif;
-	background: #86b1fc;
+	background: #bad6db;
 }
 
 main {
@@ -80,7 +80,7 @@ main {
 .formulario__mensaje {
 	height: 45px;
 	line-height: 45px;
-	background: #F66060;
+	background: #dcf9fa;
 	padding: 0 15px;
 	border-radius: 3px;
 	display: none;
